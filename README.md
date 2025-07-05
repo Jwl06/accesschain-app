@@ -14,7 +14,7 @@ AccessChain empowers communities to crowdsource accessibility information so ind
 
 ## 🚀 Demo
 
-- Live: _(Add your Vercel or GitHub Pages link here)_  
+- Live:   https://github.com/Jwl06/accesschain-app
 - Local: `http://localhost:3000`
 
 ---
